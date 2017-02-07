@@ -3,5 +3,4 @@
 # Tokyo Institute of Techmology
 ## Yann LE GUILLY
 
-I am learning Cuda C from the book "Professional CUDA C Programming".  
-Most of the code is from the book. 
+Cuda C, "Professional CUDA C Programming".   
